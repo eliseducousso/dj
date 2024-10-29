@@ -27,7 +27,7 @@ nav a:hover {
 }
 
 #accueil {
-    font-family: "Audiowide", system-ui;
+    font-family: "Exo", system-ui;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
@@ -418,7 +418,7 @@ ul li a:hover {
     }
 
     #accueil {
-        font-family: "Nabla", system-ui;
+        font-family: "Exo", system-ui;
         font-optical-sizing: auto;
         font-weight: 400;
         font-style: normal;
